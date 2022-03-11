@@ -12,7 +12,6 @@ public class LockersPvtLtd {
 	public static void main(String[] args) throws IOException {
 	
 		//Welcome Screen
-		
 		 Scanner sc = new Scanner(System.in);
 		 int selection;
 		 boolean exit = false;
